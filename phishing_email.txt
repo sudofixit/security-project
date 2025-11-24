@@ -1,0 +1,13 @@
+Subject: Urgent: Your University Account Has Been Suspended
+
+Dear Student,
+
+Your University's account has been temporarily suspended due to unusual login attempts.
+To restore access, please verify your credentials immediately:
+
+https://login-verify.secure-update-helpdesk.com
+
+Failure to do so within 24 hours will result in permanent closure.
+
+Regards,
+University IT Support Team
